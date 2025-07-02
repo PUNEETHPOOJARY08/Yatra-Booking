@@ -36,4 +36,4 @@ Tools: Git, GitHub, VS Code
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/PUNEETHPOOJARY08/Yatra-Booking
+https://github.com/PUNEETHPOOJARY08/Yatra-Booking/edit/main/README.md

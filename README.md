@@ -36,4 +36,4 @@ Tools: Git, GitHub, VS Code
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/yatra-bus-booking.git
+git clone https://github.com/PUNEETHPOOJARY08/yatra-bus-booking.git
